@@ -1,7 +1,7 @@
 # Copyright 2022 Manna Harbour
 # https://github.com/manna-harbour/miryoku
 
-name: 'Build Example corne nice_nano_v2 nice_view'
+name: 'Build Flying Monkey - choc corne nice_nano_v2 and nice_view'
 on: [push, pull_request, workflow_dispatch]
 jobs:
   build:
